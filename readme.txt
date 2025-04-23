@@ -13,8 +13,10 @@ AI Meal Recommendation App
             * View History: Accesses the user's recommendation history.
             * Delete Account: Permanently removes the user's data from the application.
 
+3. Installation:
+    Create a Docker database. Unpack the zip file. Start the Django server and Docker container. Start the app via main.dart.
 
-3.  License:
+4.  License:
     * This project was created for educational purposes only.
 
     GITHUB LINK: https://github.com/Havlin01/MealRecommender
