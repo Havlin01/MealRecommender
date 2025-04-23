@@ -32,6 +32,8 @@ dependencies:
     sdk: flutter
   http: ^1.1.0  # For making HTTP requests
   shared_preferences: ^2.2.2 # For storing the user ID locally
+  intl: ^0.18.1
+  uuid: ^4.3.0 # For generating unique IDs
 
 dev_dependencies:
   flutter_test:
